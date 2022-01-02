@@ -1,7 +1,5 @@
 # Compile-Python
 Compile Python Tool
-# Compile-Python
-Compile Python Tool
 </h3>Commands:</h3>
 <br>
 
