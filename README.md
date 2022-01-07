@@ -21,7 +21,12 @@ python Compile-Python.py
 <br>
 Enjoy Guys 😆😆
 <br>
-<h3>License Key: AxeyedTranCompileV1.2</h3>
+<h3>License Key:</h3>
+  
+````
+AxeyedTranCompileV1.2
+````
+
 <h3>Preview:</h3>
 <img src="preview.jpg">
 
